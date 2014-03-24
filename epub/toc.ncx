@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="2d8b8044-a454-4c61-a55a-da7c2a2ec553" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.22.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Persuasion</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Biographical Notice of the Author</text>
+      </navLabel>
+      <content src="Persuasion_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter I</text>
+      </navLabel>
+      <content src="Persuasion_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter II</text>
+      </navLabel>
+      <content src="Persuasion_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter III</text>
+      </navLabel>
+      <content src="Persuasion_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter IV</text>
+      </navLabel>
+      <content src="Persuasion_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter V</text>
+      </navLabel>
+      <content src="Persuasion_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter VI</text>
+      </navLabel>
+      <content src="Persuasion_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter VII</text>
+      </navLabel>
+      <content src="Persuasion_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter VIII</text>
+      </navLabel>
+      <content src="Persuasion_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter IX</text>
+      </navLabel>
+      <content src="Persuasion_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter X</text>
+      </navLabel>
+      <content src="Persuasion_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter XI</text>
+      </navLabel>
+      <content src="Persuasion_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter XII</text>
+      </navLabel>
+      <content src="Persuasion_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter I</text>
+      </navLabel>
+      <content src="Persuasion_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter II</text>
+      </navLabel>
+      <content src="Persuasion_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter III</text>
+      </navLabel>
+      <content src="Persuasion_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter IV</text>
+      </navLabel>
+      <content src="Persuasion_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter V</text>
+      </navLabel>
+      <content src="Persuasion_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter VI</text>
+      </navLabel>
+      <content src="Persuasion_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter VII</text>
+      </navLabel>
+      <content src="Persuasion_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter VIII</text>
+      </navLabel>
+      <content src="Persuasion_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter IX</text>
+      </navLabel>
+      <content src="Persuasion_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter X</text>
+      </navLabel>
+      <content src="Persuasion_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter XI</text>
+      </navLabel>
+      <content src="Persuasion_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter XII</text>
+      </navLabel>
+      <content src="Persuasion_split_032.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
