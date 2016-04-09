@@ -1,0 +1,86 @@
+_repo: Persuasion_105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: "Persuasion is Jane Austen's last completed novel, published posthumously.\
+  \ She began it soon after she had finished Emma and completed it in August 1816.\
+  \ Persuasion was published in December 1817, but is dated 1818. The author died\
+  \ earlier in 1817.\nAs the Napoleonic Wars come to an end in 1814, Admirals and\
+  \ Captains of the Royal Navy are put ashore, their work done. Anne Elliot meets\
+  \ Captain Frederick Wentworth after seven years, by the chance of his sister and\
+  \ brother-in-law renting her father's estate, while she stays for a few months with\
+  \ her married sister, living nearby. They fell in love the first time, but she broke\
+  \ off the engagement.\nBesides the theme of persuasion, the novel evokes other topics,\
+  \ with which Austen was familiar: the Royal Navy, in which two of Jane Austen's\
+  \ brothers rose to the rank of admiral; and the superficial social life of Bath.\
+  \ It is portrayed extensively and serves as a setting for the second half of Persuasion.\
+  \ In many respects, Persuasion marks a break with Austen's previous works, both\
+  \ in the more biting, even irritable satire directed at some of the novel's characters\
+  \ and in the regretful, resigned outlook of its otherwise admirable heroine, Anne\
+  \ Elliot, in the first part of the story. Against this is set the energy and appeal\
+  \ of the Royal Navy, which symbolises for Anne and the reader the possibility of\
+  \ a more outgoing, engaged, and fulfilling life, and it is this worldview which\
+  \ triumphs for the most part at the end of the novel.\nPersuasion is linked to Northanger\
+  \ Abbey not only by the fact that the two books were originally bound up in one\
+  \ volume and published together, but also because both stories are set partly in\
+  \ Bath, a fashionable city with which Austen was well acquainted, having lived there\
+  \ from 1801 to 1805.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1994-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '105'
+  wikidata: Q333179
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Regency fiction'
+- !lcsh 'Rejection (Psychology) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Motherless families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'First loves -- Fiction'
+- !lcsh 'Dysfunctional families -- Fiction'
+- GITenberg
+title: Persuasion
+url: http://www.gutenberg.org/ebooks/105
+wikipedia:
+- https://fi.wikipedia.org/wiki/Viisasteleva_syd%C3%A4n
+- https://fr.wikiquote.org/wiki/Persuasion
+- https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%BA%DB%8C%D8%A8_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://commons.wikimedia.org/wiki/Category:Persuasion_by_Jane_Austen
+- https://ja.wikipedia.org/wiki/%E8%AA%AC%E5%BE%97_(%E5%B0%8F%E8%AA%AC)
+- https://nn.wikipedia.org/wiki/Overtalelse
+- https://es.wikipedia.org/wiki/Persuasi%C3%B3n_(novela)
+- https://en.wikipedia.org/wiki/Persuasion_(novel)
+- https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%B4%D0%BA%D0%B0
+- https://tr.wikiquote.org/wiki/%C4%B0kna
+- https://fr.wikipedia.org/wiki/Persuasion_(roman)
+- https://zh.wikipedia.org/wiki/%E5%8B%B8%E5%B0%8E_(%E5%B0%8F%E8%AA%AA)
+- https://pl.wikipedia.org/wiki/Perswazje
+- https://da.wikipedia.org/wiki/K%C3%A6rlighed_og_svaghed
+- https://simple.wikipedia.org/wiki/Persuasion_(novel)
+- https://sv.wikipedia.org/wiki/%C3%96vertalning_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D9%86%D8%A7%D8%B9
+- https://nl.wikipedia.org/wiki/Persuasion
+- https://pt.wikipedia.org/wiki/Persuas%C3%A3o_(livro)
+- https://cs.wikipedia.org/wiki/Anna_Elliotov%C3%A1
+- https://de.wikipedia.org/wiki/%C3%9Cberredung
+- https://en.wikiquote.org/wiki/Persuasion_(novel)
+- https://cy.wikipedia.org/wiki/Persuasion
+- https://bg.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0
+- https://it.wikipedia.org/wiki/Persuasione_(romanzo)
+- https://no.wikipedia.org/wiki/Overtalelse_(roman)
+- https://ca.wikipedia.org/wiki/Persuasi%C3%B3_(novel%C2%B7la)
+- https://he.wikipedia.org/wiki/%D7%94%D7%98%D7%99%D7%99%D7%AA_%D7%9C%D7%91
